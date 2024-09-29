@@ -1,4 +1,5 @@
-# Sales_Data_Analysis
+![Sales-analysis-header](https://github.com/user-attachments/assets/46d6a433-290a-4a3d-ae8d-3fa51560afdc)
+
 This project analyzes sales data to identify trends, customer purchasing behaviors, and product associations. Built using Python with Pandas for data manipulation and Matplotlib for visualizations, this analysis highlights key insights into product combinations frequently sold together and sales patterns over time. 
 
 # Dataset
